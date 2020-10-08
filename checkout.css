@@ -1,3 +1,0 @@
-#storefront-app{padding:2rem 0 3rem}#storefront-app h1{text-align:center;margin-bottom:1.5rem;color:var(--secondary);font-size:2rem}#storefront-app h1:before{content:"# ";color:var(--secondary-lightest);font-weight:400;margin-right:.2rem}#storefront-app #loading{position:fixed;top:0;left:0;z-index:2000;background:hsla(0,0%,100%,.85);width:100vw;height:100vh;display:-webkit-box;display:flex;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center}#storefront-app #loading .spinner-grow{width:150px;height:150px}
-
-/*# sourceMappingURL=checkout.70ba02892cbe5b15286f.css.map*/
